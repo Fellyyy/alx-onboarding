@@ -1,0 +1,4 @@
+input int n=2, n=4
+initialize= 2*2, 4*4
+process= 4+16
+output= 20
