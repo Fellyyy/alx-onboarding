@@ -1,0 +1,5 @@
+Initialize sum=0
+Enter n.
+Find sum + n and initialize it to sum.
+If sum<0 print the sum else go to step 2.
+stop.
